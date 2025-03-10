@@ -50,4 +50,8 @@ ol ul li{
     font-size: 20px;
     line-height: 30px;
 }
-
+table { 
+    border:1px solid black;
+    border-collapse: collapse;
+}
+thead{ color:darkred}
