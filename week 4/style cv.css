@@ -27,10 +27,10 @@ nav ul li a:hover{
 header h1{
     text-align: center;
 }
-article header p{font-style:italic;
+article header p {font-style:italic;
     font-size: 20px ;
-    line-height; 388px;
- }
+
+} 
 main{ padding-left: 24px;}
 
 main article{ 
@@ -44,7 +44,10 @@ main article{
     display: block;
     border-radius: 50%;
     margin: 0 auto 20px;}
+    .my-list div {
+        text-align: center;} 
 ol ul li{
     font-size: 20px;
     line-height: 30px;
 }
+
